@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://raiyanhossain.net">
+  <a href="https://raiyanhossain.com">
     <img src="assets/logo-circle.png" alt="Raiyan Hossain Logo" width="130" height="130" />
   </a>
 </p>
@@ -7,20 +7,20 @@
 <h1 align="center">🚀 WELCOME TO MY UNIVERSE 🌌</h1>
 
 <p align="center">
-  <a href="https://raiyanhossain.net">
+  <a href="https://raiyanhossain.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D8FF&center=true&vCenter=true&width=620&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Full-Stack%20Developer%20%7C%20Cloud%20Architect;%E2%9A%A1%20Building%20Scalable%20%26%20High-Performance%20Systems;%F0%9F%9B%A0%EF%B8%8F%20Automation%2C%20DevOps%20%26%20Modern%20Web%20Apps;%F0%9F%8E%AF%20Turning%20Complex%20Problems%20Into%20Elegant%20Code" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://raiyanhossain.net"><img src="https://img.shields.io/badge/Full--Stack-Developer-00D8FF?style=for-the-badge&logo=react&logoColor=black" alt="Full-Stack Developer" /></a>
-  <a href="https://raiyanhossain.net"><img src="https://img.shields.io/badge/Cloud-Architect-7928CA?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Architect" /></a>
-  <a href="https://raiyanhossain.net"><img src="https://img.shields.io/badge/DevOps-Automation-00DF8F?style=for-the-badge&logo=docker&logoColor=black" alt="DevOps & Automation" /></a>
+  <a href="https://raiyanhossain.com"><img src="https://img.shields.io/badge/Full--Stack-Developer-00D8FF?style=for-the-badge&logo=react&logoColor=black" alt="Full-Stack Developer" /></a>
+  <a href="https://raiyanhossain.com"><img src="https://img.shields.io/badge/Cloud-Architect-7928CA?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Architect" /></a>
+  <a href="https://raiyanhossain.com"><img src="https://img.shields.io/badge/DevOps-Automation-00DF8F?style=for-the-badge&logo=docker&logoColor=black" alt="DevOps & Automation" /></a>
 </p>
 
 <p align="center">
-  <a href="https://raiyanhossain.net"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
-  <a href="mailto:contact@raiyanhossain.net"><b>📫 Email</b></a> &nbsp;•&nbsp;
+  <a href="https://raiyanhossain.com"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
+  <a href="mailto:contact@raiyanhossain.com.bd"><b>📫 Email</b></a> &nbsp;•&nbsp;
   <a href="https://github.com/RaiyanRafid?tab=repositories"><b>💻 Repositories</b></a> &nbsp;•&nbsp;
   <a href="https://facebook.com/raiyanhossainrafid"><b>💬 Connect</b></a>
 </p>
@@ -33,18 +33,31 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/brand-dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/brand-light.jpg">
-    <img src="assets/brand-dark.jpg" alt="Raiyan Hossain Branding" width="680" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-banner.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-banner-light.jpg">
+    <img src="assets/hero-banner.jpg" alt="Raiyan Hossain Branding" width="480" />
   </picture>
 </p>
 
-- 🧠 **Software Engineer | Full-Stack & Cloud Architect**
-- 🔥 Building **scalable**, **fault-tolerant**, and **high-performance** web architectures.
-- 🛠 Passionate about **system automation, DevOps pipelines, and cloud infrastructure**.
-- 💡 Exploring **Distributed Systems, Modern Web Engineering, and Cybersecurity**.
-- 🌍 Open to **innovative collaborations** & **freelance consulting opportunities**.
-- 📩 Reach me at: [Email](mailto:contact@raiyanhossain.net) | [Facebook](https://facebook.com/raiyanhossainrafid) | [Portfolio](https://raiyanhossain.net)
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20%26%20Cloud%20Architect-00D8FF?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems%20%26%20DevOps-7928CA?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Projects-00DF8F?style=flat-square" alt="Status" />
+</p>
+
+> 🚀 **Hi, I'm Raiyan Hossain** — a Full-Stack Developer & Cloud Architect focused on engineering resilient distributed applications, high-performance web systems, and automated cloud workflows.
+
+- 💻 **Full-Stack Engineering:** Architecting scalable modern web apps from frontend (**React, Next.js, TypeScript**) to robust backend services (**Node.js, Express, NestJS, Python, FastAPI**).
+- ☁️ **Cloud Infrastructure & DevOps:** Deploying and orchestrating high-availability containerized microservices across **AWS, Docker, Kubernetes, CloudPanel, and Nginx**.
+- ⚡ **Databases & High-Performance:** Designing optimized data schemas and caching layers with **PostgreSQL, MongoDB, Redis, and MySQL**.
+- 🛠️ **Automation & Systems:** Building workflow automations, custom server management setups (Pterodactyl / Blueprint), and feature-rich Discord bot systems.
+- 🤝 **Collaboration & Opportunities:** Open to high-impact software projects, freelance consulting, and technical collaborations.
+
+<p align="center">
+  <a href="mailto:contact@raiyanhossain.com.bd"><img src="https://img.shields.io/badge/Direct%20Email-contact@raiyanhossain.com.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://raiyanhossain.com"><img src="https://img.shields.io/badge/Live%20Portfolio-raiyanhossain.com-00D8FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://facebook.com/raiyanhossainrafid"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
 ---
 
@@ -122,10 +135,10 @@
 
 ## 🌎 Connect With Me
 <p align="center">
-    <a href="mailto:contact@raiyanhossain.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
+    <a href="mailto:contact@raiyanhossain.com.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
     <a href="https://facebook.com/raiyanhossainrafid"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" /></a>
     <a href="https://twitter.com/PROXIMITYEMPIRE"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" /></a>
-    <a href="https://raiyanhossain.net"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio Badge" /></a>
+    <a href="https://raiyanhossain.com"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio Badge" /></a>
 </p>
 
 ---
