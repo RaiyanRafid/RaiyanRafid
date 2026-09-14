@@ -4,6 +4,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://raiyanhossain.net">
+    <img src="assets/logo-circle.png" alt="Raiyan Hossain Logo" width="115" height="115" />
+  </a>
+</p>
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="38" height="38" />
   <b>WELCOME TO MY UNIVERSE</b>
@@ -27,12 +33,21 @@
 </p>
 
 ## 🌍 About Me
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/brand-light.jpg">
+    <img src="assets/brand-dark.jpg" alt="Raiyan Hossain Branding" width="680" />
+  </picture>
+</p>
+
 - 🧠 **Tech Visionary | AI, Cloud & Full-Stack Expert**
-- 🔥 Building **scalable** & **high-performance** web applications.
-- 🛠 Passionate about **automation, AI chatbots, and DevOps**.
-- 💡 Exploring **Blockchain, AI, and Cybersecurity**.
-- 🌍 Open to **collaborations** & **freelance opportunities**.
-- 📩 Reach me at: [Email](mailto:contact@raiyanhossain.net) | [faceBook](https://facebook.com/raiyanhossainrafid) | [Portfolio](https://raiyanhossain.net)
+- 🔥 Building **scalable**, **fault-tolerant**, and **high-performance** web applications.
+- 🛠 Passionate about **system automation, autonomous AI agents, and DevOps pipelines**.
+- 💡 Exploring **Applied AI, Modern Cloud Architecture, and Cybersecurity**.
+- 🌍 Open to **innovative collaborations** & **freelance opportunities**.
+- 📩 Reach me at: [Email](mailto:contact@raiyanhossain.net) | [Facebook](https://facebook.com/raiyanhossainrafid) | [Portfolio](https://raiyanhossain.net)
 
 ---
 
@@ -40,51 +55,66 @@
 
 ### 🚀 Languages & Frameworks
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,nodejs,react,nextjs,express" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,nodejs,react,nextjs,express" alt="Languages and Frameworks" />
 </p>
 
 ### 🛠 Backend & Databases
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nestjs,django,flask,fastapi,mysql,mongodb,redis,postgresql" />
+    <img src="https://skillicons.dev/icons?i=nestjs,django,flask,fastapi,mysql,mongodb,redis,postgresql" alt="Backend and Databases" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,linux" alt="DevOps and Cloud" />
 </p>
 
 ### 🛠 Tools & Platforms
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,github,git,postman,cloudflare,wordpress,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=figma,github,git,postman,cloudflare,wordpress,visualstudio" alt="Tools and Platforms" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaiyanRafid&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaiyanRafid&theme=tokyonight" alt="Profile Summary Card" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
 ## 🎵 Now Playing on Spotify 🎧
 <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Rafid&cover_image=true&theme=novatorem" alt="Spotify Now Playing"/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Rafid&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎵 Advanced Music Bot with Slash Commands
-🎶 High-performance bot with **queue management & audio filters**.
-
-### 🛠 Pterodactyl & Blueprint Setup
-🔧 **Nginx, CloudPanel, and scalable deployment solutions**.
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/RaiyanRafid">
+        <img src="assets/app-icon.jpg" width="160" alt="Advanced Music Bot" />
+      </a>
+      <br/><br/>
+      <h3>🎵 Advanced Music Bot Suite</h3>
+      <p>High-performance Discord bot featuring <b>Slash Commands</b>, advanced queue management, real-time audio filters & DSP processing.</p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/RaiyanRafid">
+        <img src="assets/badge.jpg" width="160" alt="Pterodactyl & Blueprint Setup" />
+      </a>
+      <br/><br/>
+      <h3>🛠️ Pterodactyl & Cloud Systems</h3>
+      <p>Robust server management architecture configured with <b>Nginx reverse proxy</b>, CloudPanel, Blueprint extensions, and scalable Docker deployments.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -95,12 +125,14 @@
 
 ## 🌎 Connect With Me
 <p align="center">
-    <a href="mailto:contact@raiyanhossain.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://facebook.com/raiyanhossainrafid"><img src="https://img.shields.io/badge/FaceBook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://twitter.com/PROXIMITYEMPIRE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://raiyanhossain.net"><img src="https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+    <a href="mailto:contact@raiyanhossain.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
+    <a href="https://facebook.com/raiyanhossainrafid"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" /></a>
+    <a href="https://twitter.com/PROXIMITYEMPIRE"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" /></a>
+    <a href="https://raiyanhossain.net"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio Badge" /></a>
 </p>
 
 ---
 
-⭐ **Star my repositories & follow me for more tech innovations!** 🚀🔥
+<p align="center">
+  ⭐ <b>Star my repositories & follow me for more tech innovations!</b> 🚀🔥
+</p>
