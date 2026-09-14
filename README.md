@@ -276,21 +276,101 @@
 
 ---
 
-## 💡 Fun Fact
-🛠 I love **automating workflows** & **building modern, robust tech solutions**!
+## 💡 Mindset & Beyond The Code
+
+<div align="center">
+  <blockquote>
+    <i>"Give me a repetitive 5-minute task, and I'll happily spend 5 hours automating it to perfection so nobody ever has to do it again."</i> ⚡
+  </blockquote>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☕ The Daily Fuel</h4>
+      <p>Powered by dark roast coffee, relentless curiosity, clean Git commits, and zero-warning production builds.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ The Automation Rule</h4>
+      <p>If you have to do it twice manually, write a script. If three times, deploy a Docker container and an automated CI/CD pipeline.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌙 Midnight Architecture</h4>
+      <p>Peak engineering hours occur past midnight — when server latencies are lowest, distractions are zero, and focus is laser-sharp.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎧 Deep Focus Frequency</h4>
+      <p>Complex debugging sessions and system architecture design hit different when synchronized with synthwave, electronic beats, and lofi playlists.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌎 Connect With Me
+## 🤝 Let's Connect & Build Together
+
 <p align="center">
-    <a href="mailto:contact@raiyanhossain.com.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
-    <a href="https://facebook.com/raiyanhossainrafid"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" /></a>
-    <a href="https://twitter.com/PROXIMITYEMPIRE"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" /></a>
-    <a href="https://raiyanhossain.com"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio Badge" /></a>
+  <b>Have an ambitious project in mind, need high-availability cloud architecture, or looking for custom software solutions?</b><br/>
+  <i>My inbox is always open for exciting opportunities, collaborations, and technical discussions!</i>
 </p>
 
+<p align="center">
+  <a href="mailto:contact@raiyanhossain.com.bd">
+    <img src="https://img.shields.io/badge/Email-contact%40raiyanhossain.com.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://raiyanhossain.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-raiyanhossain.com-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/RaiyanRafid">
+    <img src="https://img.shields.io/badge/GitHub-RaiyanRafid-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://facebook.com/raiyanhossainrafid" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-raiyanhossainrafid-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/PROXIMITYEMPIRE" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-%40PROXIMITYEMPIRE-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💼 Inquiries & Client Projects</h4>
+      <p>
+        Looking for enterprise server colocation, high-performance web hosting, custom WHMCS modules, or cloud infrastructure scaling?
+      </p>
+      <p>
+        👉 <b>Email:</b> <a href="mailto:contact@raiyanhossain.com.bd"><code>contact@raiyanhossain.com.bd</code></a><br/>
+        👉 <b>Website:</b> <a href="https://raiyanhossain.com" target="_blank"><code>raiyanhossain.com</code></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Tech Discussions & Open Source</h4>
+      <p>
+        Interested in collaborating on open-source packages, discussing distributed systems, or exploring modern DevOps setups?
+      </p>
+      <p>
+        👉 <b>GitHub:</b> <a href="https://github.com/RaiyanRafid"><code>@RaiyanRafid</code></a><br/>
+        👉 <b>Social:</b> <a href="https://facebook.com/raiyanhossainrafid" target="_blank"><code>Facebook</code></a> • <a href="https://twitter.com/PROXIMITYEMPIRE" target="_blank"><code>X / Twitter</code></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <p align="center">
-  ⭐ <b>Star my repositories & follow me for more tech innovations!</b> 🚀🔥
+  <img src="https://komarev.com/ghpvc/?username=RaiyanRafid&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  ⭐ <b>Enjoyed exploring my profile? Leave a star on my repositories & follow along for more innovations!</b> 🚀🔥
 </p>
