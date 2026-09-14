@@ -115,13 +115,31 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Analytics & Activity
+
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaiyanRafid&theme=tokyonight" alt="Profile Summary Card" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanRafid&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <a href="https://github.com/RaiyanRafid">
+    <img src="https://komarev.com/ghpvc/?username=RaiyanRafid&color=00D8FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/RaiyanRafid?tab=followers">
+    <img src="https://img.shields.io/github/followers/RaiyanRafid?label=Followers&style=for-the-badge&color=7928CA&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/RaiyanRafid?tab=repositories">
+    <img src="https://img.shields.io/github/stars/RaiyanRafid?label=Total%20Stars&style=for-the-badge&color=00DF8F&logo=star" alt="Stars" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaiyanRafid&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaiyanRafid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=RaiyanRafid&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaiyanRafid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
