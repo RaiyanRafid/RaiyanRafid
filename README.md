@@ -156,23 +156,120 @@
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  <b>A showcase of live production platforms, cloud infrastructure, enterprise solutions, and e-commerce brands I have built and engineered:</b>
+</p>
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/RaiyanRafid">
-        <img src="assets/app-icon.jpg" width="160" alt="Advanced Music Bot" />
+      <a href="https://baharihost.com" target="_blank">
+        <img src="assets/projects/baharihost.png" width="100%" alt="BahariHost Preview" style="border-radius: 8px;" />
       </a>
       <br/><br/>
-      <h3>🎵 Advanced Music Bot Suite</h3>
-      <p>High-performance Discord bot featuring <b>Slash Commands</b>, advanced queue management, real-time audio filters & DSP processing.</p>
+      <h3>🌐 BahariHost — Cloud & NVMe Hosting</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Web_Hosting-cPanel-00F0FF?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
+        <img src="https://img.shields.io/badge/Server-LiteSpeed_Enterprise-10B981?style=flat-square" alt="LiteSpeed" />
+        <img src="https://img.shields.io/badge/Network-BDIX_Optimized-6366F1?style=flat-square" alt="BDIX" />
+        <img src="https://img.shields.io/badge/SLA-99.9%25_Uptime-3B82F6?style=flat-square" alt="Uptime" />
+      </p>
+      <p align="left">
+        High-performance web hosting & cloud infrastructure provider in Bangladesh. Engineered with ultra-fast NVMe storage, LiteSpeed Enterprise web servers, automated cPanel provisioning, high-frequency Cloud VPS, and low-latency BDIX connectivity with 24/7 technical support.
+      </p>
+      <p align="center">
+        <a href="https://baharihost.com" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_BahariHost-baharihost.com-00F0FF?style=for-the-badge&logo=firefox-browser&logoColor=black" alt="Visit BahariHost" />
+        </a>
+      </p>
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/RaiyanRafid">
-        <img src="assets/badge.jpg" width="160" alt="Pterodactyl & Blueprint Setup" />
+      <a href="https://datacorelink.com" target="_blank">
+        <img src="assets/projects/datacorelink.png" width="100%" alt="DataCoreLink Preview" style="border-radius: 8px;" />
       </a>
       <br/><br/>
-      <h3>🛠️ Pterodactyl & Cloud Systems</h3>
-      <p>Robust server management architecture configured with <b>Nginx reverse proxy</b>, CloudPanel, Blueprint extensions, and scalable Docker deployments.</p>
+      <h3>🏢 DataCoreLink — Enterprise Data Centre</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Facility-Tier--III_DC-3B82F6?style=flat-square" alt="Tier-III" />
+        <img src="https://img.shields.io/badge/Colocation-Rack_Units-8B5CF6?style=flat-square" alt="Colocation" />
+        <img src="https://img.shields.io/badge/Hardware-Bare--Metal_Servers-EC4899?style=flat-square" alt="Bare Metal" />
+        <img src="https://img.shields.io/badge/Latency-%3C5ms_Dhaka-10B981?style=flat-square" alt="Latency" />
+      </p>
+      <p align="left">
+        Mission-critical enterprise data center and colocation facility located in Dhaka, Bangladesh. Offering carrier-neutral Tier-III colocation, high-availability dedicated bare-metal servers, redundant N+1 power & precision cooling, and round-the-clock on-site network operations.
+      </p>
+      <p align="center">
+        <a href="https://datacorelink.com" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_DataCoreLink-datacorelink.com-3B82F6?style=for-the-badge&logo=serverfault&logoColor=white" alt="Visit DataCoreLink" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://bahariit.com" target="_blank">
+        <img src="assets/projects/bahariit.png" width="100%" alt="Bahari IT Preview" style="border-radius: 8px;" />
+      </a>
+      <br/><br/>
+      <h3>💻 Bahari IT — Digital Agency & Custom Solutions</h3>
+      <p>
+        <img src="https://img.shields.io/badge/WHMCS-Custom_Modules-F59E0B?style=flat-square" alt="WHMCS Modules" />
+        <img src="https://img.shields.io/badge/Web_Apps-Custom_SaaS-10B981?style=flat-square" alt="Custom SaaS" />
+        <img src="https://img.shields.io/badge/DevOps-Server_Optimization-6366F1?style=flat-square" alt="DevOps" />
+        <img src="https://img.shields.io/badge/Automation-Cloud_Systems-EF4444?style=flat-square" alt="Automation" />
+      </p>
+      <p align="left">
+        Full-stack digital agency and development house delivering custom WHMCS payment and provisioning modules, bespoke web application development, payment gateway integrations, automated server configurations, and enterprise business scaling.
+      </p>
+      <p align="center">
+        <a href="https://bahariit.com" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_Bahari_IT-bahariit.com-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Visit Bahari IT" />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://nlyhost.com" target="_blank">
+        <img src="assets/projects/nlyhost.png" width="100%" alt="NLYHost Preview" style="border-radius: 8px;" />
+      </a>
+      <br/><br/>
+      <h3>⚡ NLYHost — Next-Gen Cloud Platform</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Platform-Cloud_VPS-06B6D4?style=flat-square" alt="Cloud VPS" />
+        <img src="https://img.shields.io/badge/Security-Anycast_DDoS_Shield-8B5CF6?style=flat-square" alt="DDoS Shield" />
+        <img src="https://img.shields.io/badge/Tech-Next.js_Platform-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Storage-Pure_NVMe_SSD-10B981?style=flat-square" alt="NVMe" />
+      </p>
+      <p align="left">
+        Developer-first cloud hosting platform featuring high-throughput NVMe SSD architecture, Anycast multi-terabit DDoS edge protection, automated instant domain provisioning, and an intuitive modern interface engineered for developers and businesses.
+      </p>
+      <p align="center">
+        <a href="https://nlyhost.com" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_NLYHost-nlyhost.com-06B6D4?style=for-the-badge&logo=cloudways&logoColor=white" alt="Visit NLYHost" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" width="100%" valign="top">
+      <a href="https://mrtriplerofficial.com" target="_blank">
+        <img src="assets/projects/mrtripler.png" width="65%" alt="RRR BRAND Preview" style="border-radius: 8px;" />
+      </a>
+      <br/><br/>
+      <h3>👕 RRR BRAND — Premier Fashion & Lifestyle E-Commerce</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Store-E--Commerce_Platform-E11D48?style=flat-square" alt="E-Commerce" />
+        <img src="https://img.shields.io/badge/Collection-Streetwear_&_Panjabi-F97316?style=flat-square" alt="Streetwear & Panjabi" />
+        <img src="https://img.shields.io/badge/Luxury-Signature_Attar-A855F7?style=flat-square" alt="Luxury Attar" />
+        <img src="https://img.shields.io/badge/Brand-Mr_Triple_R_Official-000000?style=flat-square" alt="Mr Triple R Official" />
+      </p>
+      <p align="center" style="max-width: 800px;">
+        The official e-commerce storefront for <b>Mr Triple R Official</b> (<code>mrtriplerofficial.com</code>), showcasing an exclusive line of streetwear drops, premium drop-shoulder t-shirts, handcrafted royal panjabis, luxury attar fragrances, and bespoke lifestyle merchandise with instant checkout.
+      </p>
+      <p align="center">
+        <a href="https://mrtriplerofficial.com" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_RRR_Brand-mrtriplerofficial.com-E11D48?style=for-the-badge&logo=shopify&logoColor=white" alt="Visit RRR Brand" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
