@@ -61,27 +61,57 @@
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## 🛠️ Technical Arsenal & Core Stack
 
-### 🚀 Languages & Frameworks
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,nodejs,react,nextjs,express" alt="Languages and Frameworks" />
+  <img src="https://img.shields.io/badge/Architecture-Distributed%20Microservices-00D8FF?style=for-the-badge" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Frontend-Modern%20Web%20%26%20SSR-7928CA?style=for-the-badge" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Cloud-Native%20Containers-00DF8F?style=for-the-badge" alt="Cloud Native" />
 </p>
 
-### 🛠 Backend & Databases
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=nestjs,django,flask,fastapi,mysql,mongodb,redis,postgresql" alt="Backend and Databases" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,linux" alt="DevOps and Cloud" />
-</p>
-
-### 🛠 Tools & Platforms
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,github,git,postman,cloudflare,wordpress,visualstudio" alt="Tools and Platforms" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Frontend & UI Engineering</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite&theme=dark" alt="Frontend Skills" />
+      </p>
+      <sub><b>Core:</b> React 19 • Next.js App Router • TypeScript • TailwindCSS • Responsive UI Architecture</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & API Architecture</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,flask,php&theme=dark" alt="Backend Skills" />
+      </p>
+      <sub><b>Core:</b> RESTful & GraphQL APIs • Microservices • NestJS • Python FastAPI • High Throughput</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud, DevOps & Containers</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,linux,cloudflare&theme=dark" alt="DevOps Skills" />
+      </p>
+      <sub><b>Core:</b> Dockerization • Kubernetes • Nginx Reverse Proxy • Cloudflare Edge • CI/CD Automation</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Databases & Storage</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase,prisma&theme=dark" alt="Database Skills" />
+      </p>
+      <sub><b>Core:</b> Relational & Document DBs • Redis In-Memory Caching • Indexing & Optimization</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h4>🛠️ Developer Tooling, Platforms & Workflows</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,wordpress,ubuntu,bash&theme=dark" alt="Tools" />
+      </p>
+      <sub><b>Core:</b> Git Version Control • Postman API Suite • Figma UI/UX • Shell Scripting • Linux Server Administration</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
