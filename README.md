@@ -144,9 +144,12 @@
 
 ---
 
-## 🎵 Now Playing on Spotify 🎧
+## 🎵 Recently Played on Spotify 🎧
+
 <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Rafid&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ki64gbtsaaggsfvlog3yhjdliq&unique=1&duration=1&album=1&footer=wave" alt="Spotify Recently Played" />
+  </a>
 </p>
 
 ---
