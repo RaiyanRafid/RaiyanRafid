@@ -1,16 +1,30 @@
-<h1 align="center">🚀 Welcome to My Universe 🌌</h1>
-
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=6000&color=00FFFF&center=true&vCenter=true&width=1000&lines=👨‍💻+Full-Stack+Developer+|+AI+%26+Cloud+Architect;💡+Building+Innovative+Tech+Solutions;🚀+Freelancer+%26+Tech+Enthusiast;🎯+Passionate+About+Problem-Solving"/>
+  <a href="https://raiyanhossain.net">
+    <img src="assets/banner.jpg" alt="Raiyan's AI Universe" width="100%" />
+  </a>
 </p>
 
----
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="38" height="38" />
+  <b>WELCOME TO MY UNIVERSE</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="38" height="38" />
+</h1>
 
 <p align="center">
-    <img src="https://source.unsplash.com/1600x500/?galaxy,technology,ai" alt="Profile Banner">
+  <a href="https://raiyanhossain.net">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F0FF&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80%20Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Architect;%E2%9A%A1%20Building%20High-Performance%20%26%20Scalable%20Systems;%F0%9F%A4%96%20Architecting%20Autonomous%20AI%20%26%20Intelligent%20Solutions;%F0%9F%8E%AF%20Passionate%20About%20Problem%20Solving%20%26%20Innovation" alt="Typing SVG" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Neural%20Systems-Autonomous%20Agents-00F0FF?style=for-the-badge&logo=openai&logoColor=000&labelColor=0d1117" alt="AI Badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-Scalable%20Microservices-7928CA?style=for-the-badge&logo=googlecloud&logoColor=fff&labelColor=0d1117" alt="Cloud Badge" />
+  <img src="https://img.shields.io/badge/Engineering-Full--Stack%20%26%20DevOps-00DF8F?style=for-the-badge&logo=nextdotjs&logoColor=fff&labelColor=0d1117" alt="FullStack Badge" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" width="100%" />
+</p>
 
 ## 🌍 About Me
 - 🧠 **Tech Visionary | AI, Cloud & Full-Stack Expert**
