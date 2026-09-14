@@ -1,35 +1,32 @@
 <p align="center">
   <a href="https://raiyanhossain.net">
-    <img src="assets/banner.jpg" alt="Raiyan's AI Universe" width="100%" />
+    <img src="assets/logo-circle.png" alt="Raiyan Hossain Logo" width="130" height="130" />
   </a>
 </p>
+
+<h1 align="center">🚀 WELCOME TO MY UNIVERSE 🌌</h1>
 
 <p align="center">
   <a href="https://raiyanhossain.net">
-    <img src="assets/logo-circle.png" alt="Raiyan Hossain Logo" width="115" height="115" />
-  </a>
-</p>
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="38" height="38" />
-  <b>WELCOME TO MY UNIVERSE</b>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="38" height="38" />
-</h1>
-
-<p align="center">
-  <a href="https://raiyanhossain.net">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F0FF&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80%20Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Architect;%E2%9A%A1%20Building%20High-Performance%20%26%20Scalable%20Systems;%F0%9F%A4%96%20Architecting%20Autonomous%20AI%20%26%20Intelligent%20Solutions;%F0%9F%8E%AF%20Passionate%20About%20Problem%20Solving%20%26%20Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D8FF&center=true&vCenter=true&width=620&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Full-Stack%20Developer%20%7C%20Cloud%20Architect;%E2%9A%A1%20Building%20Scalable%20%26%20High-Performance%20Systems;%F0%9F%9B%A0%EF%B8%8F%20Automation%2C%20DevOps%20%26%20Modern%20Web%20Apps;%F0%9F%8E%AF%20Turning%20Complex%20Problems%20Into%20Elegant%20Code" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Neural%20Systems-Autonomous%20Agents-00F0FF?style=for-the-badge&logo=openai&logoColor=000&labelColor=0d1117" alt="AI Badge" />
-  <img src="https://img.shields.io/badge/Cloud%20Architecture-Scalable%20Microservices-7928CA?style=for-the-badge&logo=googlecloud&logoColor=fff&labelColor=0d1117" alt="Cloud Badge" />
-  <img src="https://img.shields.io/badge/Engineering-Full--Stack%20%26%20DevOps-00DF8F?style=for-the-badge&logo=nextdotjs&logoColor=fff&labelColor=0d1117" alt="FullStack Badge" />
+  <a href="https://raiyanhossain.net"><img src="https://img.shields.io/badge/Full--Stack-Developer-00D8FF?style=for-the-badge&logo=react&logoColor=black" alt="Full-Stack Developer" /></a>
+  <a href="https://raiyanhossain.net"><img src="https://img.shields.io/badge/Cloud-Architect-7928CA?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Architect" /></a>
+  <a href="https://raiyanhossain.net"><img src="https://img.shields.io/badge/DevOps-Automation-00DF8F?style=for-the-badge&logo=docker&logoColor=black" alt="DevOps & Automation" /></a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Divider" width="100%" />
+  <a href="https://raiyanhossain.net"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
+  <a href="mailto:contact@raiyanhossain.net"><b>📫 Email</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/RaiyanRafid?tab=repositories"><b>💻 Repositories</b></a> &nbsp;•&nbsp;
+  <a href="https://facebook.com/raiyanhossainrafid"><b>💬 Connect</b></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
 </p>
 
 ## 🌍 About Me
@@ -42,11 +39,11 @@
   </picture>
 </p>
 
-- 🧠 **Tech Visionary | AI, Cloud & Full-Stack Expert**
-- 🔥 Building **scalable**, **fault-tolerant**, and **high-performance** web applications.
-- 🛠 Passionate about **system automation, autonomous AI agents, and DevOps pipelines**.
-- 💡 Exploring **Applied AI, Modern Cloud Architecture, and Cybersecurity**.
-- 🌍 Open to **innovative collaborations** & **freelance opportunities**.
+- 🧠 **Software Engineer | Full-Stack & Cloud Architect**
+- 🔥 Building **scalable**, **fault-tolerant**, and **high-performance** web architectures.
+- 🛠 Passionate about **system automation, DevOps pipelines, and cloud infrastructure**.
+- 💡 Exploring **Distributed Systems, Modern Web Engineering, and Cybersecurity**.
+- 🌍 Open to **innovative collaborations** & **freelance consulting opportunities**.
 - 📩 Reach me at: [Email](mailto:contact@raiyanhossain.net) | [Facebook](https://facebook.com/raiyanhossainrafid) | [Portfolio](https://raiyanhossain.net)
 
 ---
@@ -119,7 +116,7 @@
 ---
 
 ## 💡 Fun Fact
-🛠 I love **automating workflows** & **building futuristic tech solutions**!
+🛠 I love **automating workflows** & **building modern, robust tech solutions**!
 
 ---
 
