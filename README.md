@@ -139,7 +139,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaiyanRafid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="assets/top-langs.svg" alt="Top Languages (Public &amp; Private)" />
 </p>
 
 ---

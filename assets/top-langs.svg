@@ -1,0 +1,31 @@
+<svg width="495" height="120" viewBox="0 0 495 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header {
+      font: 600 16px 'Segoe UI', Ubuntu, sans-serif;
+      fill: #70a5fd;
+    }
+  </style>
+  <rect x="0.5" y="0.5" rx="6" width="494" height="119" fill="#1a1b27" stroke="#30363d" />
+  <text x="25" y="35" class="header">My Programming Languages (Public &amp; Private)</text>
+  <g clip-path="url(#bar-clip)">
+    <clipPath id="bar-clip">
+      <rect x="25" y="55" width="445" height="8" rx="4" />
+    </clipPath>
+    <rect x="25.00" y="55" width="338.14" height="8" fill="#3572A5" /><rect x="363.14" y="55" width="106.86" height="8" fill="#89e051" />
+  </g>
+  
+        <g transform="translate(25, 85)">
+          <circle cx="5" cy="5" r="4.5" fill="#3572A5" />
+          <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
+            Python <tspan fill="#8b949e" font-size="11px">(76.0%)</tspan>
+          </text>
+        </g>
+        
+        <g transform="translate(265, 85)">
+          <circle cx="5" cy="5" r="4.5" fill="#89e051" />
+          <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
+            Shell <tspan fill="#8b949e" font-size="11px">(24.0%)</tspan>
+          </text>
+        </g>
+        
+</svg>
