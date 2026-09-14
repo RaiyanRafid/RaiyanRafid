@@ -19,6 +19,24 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Infrastructure-5%2B%20Production%20Platforms-00F0FF?style=for-the-badge&logo=serverfault&logoColor=black" alt="Platforms" />
+  <img src="https://img.shields.io/badge/Network-%3C5ms%20Dhaka%20BDIX-7928CA?style=for-the-badge&logo=fastapi&logoColor=white" alt="BDIX Latency" />
+  <img src="https://img.shields.io/badge/Availability-99.99%25%20Uptime%20SLA-00DF8F?style=for-the-badge&logo=statuspal&logoColor=black" alt="Uptime SLA" />
+  <img src="https://img.shields.io/badge/Security-Multi--Tbps%20DDoS%20Shield-FF0055?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DDoS Defense" />
+</p>
+
+<p align="center">
+  <a href="#about-me"><img src="https://img.shields.io/badge/About%20Me-161b22?style=flat-square&logo=aboutdotme&logoColor=00F0FF" alt="About Me" /></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-161b22?style=flat-square&logo=visualstudiocode&logoColor=00F0FF" alt="Tech Stack" /></a>
+  <a href="#milestones"><img src="https://img.shields.io/badge/Milestones-161b22?style=flat-square&logo=target&logoColor=00F0FF" alt="Milestones" /></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-161b22?style=flat-square&logo=rocket&logoColor=00F0FF" alt="Projects" /></a>
+  <a href="#github-analytics"><img src="https://img.shields.io/badge/Analytics-161b22?style=flat-square&logo=github&logoColor=00F0FF" alt="Analytics" /></a>
+  <a href="#spotify"><img src="https://img.shields.io/badge/Spotify-161b22?style=flat-square&logo=spotify&logoColor=00F0FF" alt="Spotify" /></a>
+  <a href="#mindset"><img src="https://img.shields.io/badge/Mindset-161b22?style=flat-square&logo=probot&logoColor=00F0FF" alt="Mindset" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Contact-161b22?style=flat-square&logo=googlechat&logoColor=00F0FF" alt="Contact" /></a>
+</p>
+
+<p align="center">
   <a href="https://raiyanhossain.com"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
   <a href="mailto:contact@raiyanhossain.com.bd"><b>📫 Email</b></a> &nbsp;•&nbsp;
   <a href="https://github.com/RaiyanRafid?tab=repositories"><b>💻 Repositories</b></a> &nbsp;•&nbsp;
@@ -29,6 +47,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
 </p>
 
+<a id="about-me"></a>
 ## <img src="assets/icons/wave.gif" width="30" height="30" valign="middle" /> About Me
 
 <p align="center">
@@ -60,9 +79,14 @@
 </p>
 
 <p align="center">
+  <img src="assets/terminal-bio.svg" alt="DevOps Neofetch System Information" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
 </p>
 
+<a id="tech-stack"></a>
 ## <img src="assets/icons/tech.gif" width="30" height="30" valign="middle" /> Technical Arsenal & Core Stack
 
 <p align="center">
@@ -115,10 +139,69 @@
   </tr>
 </table>
 
+<a id="milestones"></a>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
 </p>
 
+## <img src="assets/icons/projects.gif" width="30" height="30" valign="middle" /> Enterprise Milestones & Roles
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Founder & Lead Infrastructure Architect</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Platform-BahariHost-00F0FF?style=flat-square&logo=cpanel&logoColor=white" alt="BahariHost" />
+        <img src="https://img.shields.io/badge/Period-2023_--_Present-10B981?style=flat-square" alt="Period" />
+      </p>
+      <ul>
+        <li>Architected high-throughput Cloud VPS & cPanel hosting environments with LiteSpeed Enterprise and NVMe storage.</li>
+        <li>Engineered direct nationwide BDIX peering delivering &lt;5ms latency across Bangladesh.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 Enterprise Facilities & Colocation Lead</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Infrastructure-DataCoreLink-3B82F6?style=flat-square&logo=serverfault&logoColor=white" alt="DataCoreLink" />
+        <img src="https://img.shields.io/badge/Period-2024_--_Present-10B981?style=flat-square" alt="Period" />
+      </p>
+      <ul>
+        <li>Designed carrier-neutral Tier-III colocation facilities with N+1 power redundancy and precision cooling.</li>
+        <li>Deployed mission-critical bare-metal dedicated servers for enterprise workloads and high-availability operations.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Digital Agency Lead & WHMCS Specialist</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Agency-Bahari_IT-F59E0B?style=flat-square&logo=codeforces&logoColor=white" alt="Bahari IT" />
+        <img src="https://img.shields.io/badge/Period-2023_--_Present-10B981?style=flat-square" alt="Period" />
+      </p>
+      <ul>
+        <li>Engineered custom WHMCS automated provisioning and payment gateway modules.</li>
+        <li>Developed bespoke full-stack SaaS solutions, cloud integrations, and optimized server configurations.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>👕 Digital Storefront & E-Commerce Architect</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Storefront-RRR_BRAND-E11D48?style=flat-square&logo=shopify&logoColor=white" alt="RRR BRAND" />
+        <img src="https://img.shields.io/badge/Period-2024_--_Present-10B981?style=flat-square" alt="Period" />
+      </p>
+      <ul>
+        <li>Engineered high-performance e-commerce platform for Mr Triple R Official's fashion drops and lifestyle merchandise.</li>
+        <li>Configured scalable checkout pipelines, inventory sync, and CDN-accelerated product showcases.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
+</p>
+
+<a id="github-analytics"></a>
 ## <img src="assets/icons/analytics.gif" width="30" height="30" valign="middle" /> GitHub Analytics & Activity
 
 <p align="center">
@@ -131,6 +214,14 @@
   <a href="https://github.com/RaiyanRafid?tab=repositories">
     <img src="https://img.shields.io/github/stars/RaiyanRafid?label=Total%20Stars&style=for-the-badge&color=00DF8F&logo=star" alt="Stars" />
   </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+    <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -147,9 +238,22 @@
 </p>
 
 <p align="center">
+  <b>📦 Featured Open-Source Repositories:</b>
+</p>
+<p align="center">
+  <a href="https://github.com/RaiyanRafid/RaiyanRafid">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaiyanRafid&repo=RaiyanRafid&theme=tokyonight&hide_border=true" alt="RaiyanRafid Repo" width="49%" />
+  </a>
+  <a href="https://github.com/RaiyanRafid/bhipconfig">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RaiyanRafid&repo=bhipconfig&theme=tokyonight&hide_border=true" alt="bhipconfig Repo" width="49%" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
 </p>
 
+<a id="spotify"></a>
 ## <img src="assets/icons/spotify.gif" width="30" height="30" valign="middle" /> Recently Played on Spotify 🎧
 
 <p align="center">
@@ -162,6 +266,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
 </p>
 
+<a id="featured-projects"></a>
 ## <img src="assets/icons/projects.gif" width="30" height="30" valign="middle" /> Featured Projects
 
 <p align="center">
@@ -286,6 +391,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
 </p>
 
+<a id="mindset"></a>
 ## <img src="assets/icons/mindset.gif" width="30" height="30" valign="middle" /> Mindset & Beyond The Code
 
 <div align="center">
@@ -321,6 +427,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
 </p>
 
+<a id="connect"></a>
 ## <img src="assets/icons/connect.gif" width="30" height="30" valign="middle" /> Let's Connect & Build Together
 
 <p align="center">

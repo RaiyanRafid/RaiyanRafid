@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16161e"/>
+      <stop offset="100%" stop-color="#1a1b26"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D8FF"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#7aa2f7"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .terminal-bg { fill: url(#cardGrad); stroke: #2a2e42; stroke-width: 1.5; rx: 12; }
+    .header-bar { fill: #1f2335; }
+    .title-text { fill: #7aa2f7; font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; font-weight: 600; }
+    .prompt-user { fill: #00F0FF; font-family: 'Fira Code', monospace; font-size: 14px; font-weight: bold; }
+    .prompt-at { fill: #a9b1d6; font-family: 'Fira Code', monospace; font-size: 14px; }
+    .prompt-host { fill: #bb9af7; font-family: 'Fira Code', monospace; font-size: 14px; font-weight: bold; }
+    .prompt-cmd { fill: #c0caf5; font-family: 'Fira Code', monospace; font-size: 14px; }
+    .key-text { fill: #7aa2f7; font-family: 'Fira Code', monospace; font-size: 13px; font-weight: 600; }
+    .sep-text { fill: #565f89; font-family: 'Fira Code', monospace; font-size: 13px; }
+    .val-text { fill: #c0caf5; font-family: 'Fira Code', monospace; font-size: 13px; }
+    .val-accent { fill: #00DF8F; font-weight: bold; }
+    .val-cyan { fill: #00F0FF; font-weight: bold; }
+    .val-purple { fill: #bb9af7; font-weight: bold; }
+    .ascii-art { fill: #00F0FF; font-family: 'Fira Code', monospace; font-size: 11px; line-height: 1.1; font-weight: bold; }
+  </style>
+
+  <!-- Window Container -->
+  <rect x="5" y="5" width="840" height="350" class="terminal-bg"/>
+
+  <!-- Top Bar -->
+  <path d="M 5 17 A 12 12 0 0 1 17 5 L 833 5 A 12 12 0 0 1 845 17 L 845 38 L 5 38 Z" class="header-bar"/>
+  
+  <!-- Window Controls -->
+  <circle cx="28" cy="22" r="6" fill="#f7768e"/>
+  <circle cx="48" cy="22" r="6" fill="#e0af68"/>
+  <circle cx="68" cy="22" r="6" fill="#9ece6a"/>
+
+  <!-- Title -->
+  <text x="425" y="26" text-anchor="middle" class="title-text">raiyan@cloud-infrastructure:~ (zsh)</text>
+
+  <!-- Terminal Content -->
+  <!-- Prompt Line -->
+  <text x="30" y="68">
+    <tspan class="prompt-user">raiyan</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">cloud-core</tspan><tspan class="prompt-at">:~$ </tspan><tspan class="prompt-cmd">neofetch --profile raiyan</tspan>
+  </text>
+
+  <!-- ASCII Art Left -->
+  <g transform="translate(30, 92)">
+    <text class="ascii-art">
+      <tspan x="0" dy="0">    .---.      </tspan>
+      <tspan x="0" dy="16">   /     \     </tspan>
+      <tspan x="0" dy="16">  | () () |    </tspan>
+      <tspan x="0" dy="16">   \  _  /     </tspan>
+      <tspan x="0" dy="16">    |||||      </tspan>
+      <tspan x="0" dy="16">   /|===|\     </tspan>
+      <tspan x="0" dy="16">  (_|===|_)    </tspan>
+      <tspan x="0" dy="16">    |||||      </tspan>
+      <tspan x="0" dy="16">   (__|__)     </tspan>
+      <tspan x="0" dy="20" fill="#7aa2f7">[ CLOUD-ARCH ]</tspan>
+    </text>
+  </g>
+
+  <!-- Divider between ASCII and Specs -->
+  <line x1="165" y1="90" x2="165" y2="305" stroke="#2a2e42" stroke-width="1.5" stroke-dasharray="4 3"/>
+
+  <!-- Specs Output Right -->
+  <g transform="translate(185, 95)">
+    <!-- Header Line -->
+    <text x="0" y="0">
+      <tspan fill="#00F0FF" font-family="'Fira Code', monospace" font-size="14" font-weight="bold">raiyan</tspan>
+      <tspan fill="#a9b1d6" font-family="'Fira Code', monospace" font-size="14">@</tspan>
+      <tspan fill="#bb9af7" font-family="'Fira Code', monospace" font-size="14" font-weight="bold">cloud-infrastructure</tspan>
+    </text>
+    <line x1="0" y1="8" x2="400" y2="8" stroke="#414868" stroke-width="1"/>
+
+    <!-- Properties -->
+    <text x="0" y="30" class="key-text">OS<tspan dx="90" class="sep-text">:</tspan><tspan dx="10" class="val-text">Ubuntu 24.04 LTS / CloudLinux Enterprise</tspan></text>
+    <text x="0" y="52" class="key-text">Role<tspan dx="74" class="sep-text">:</tspan><tspan dx="10" class="val-text"><tspan class="val-cyan">Full-Stack Engineer</tspan> &amp; <tspan class="val-purple">Cloud Architect</tspan></tspan></text>
+    <text x="0" y="74" class="key-text">Uptime<tspan dx="58" class="sep-text">:</tspan><tspan dx="10" class="val-text"><tspan class="val-accent">99.99% Production Availability</tspan> (24/7/365)</tspan></text>
+    <text x="0" y="96" class="key-text">Platforms<tspan dx="34" class="sep-text">:</tspan><tspan dx="10" class="val-text">BahariHost • DataCoreLink • Bahari IT • NLYHost • RRR</tspan></text>
+    <text x="0" y="118" class="key-text">Kernel<tspan dx="58" class="sep-text">:</tspan><tspan dx="10" class="val-text">Next.js 15 • React 19 • Python FastAPI • Docker</tspan></text>
+    <text x="0" y="140" class="key-text">Engine<tspan dx="58" class="sep-text">:</tspan><tspan dx="10" class="val-text">BDIX Optimized • LiteSpeed Enterprise • Nginx Proxy</tspan></text>
+    <text x="0" y="162" class="key-text">Security<tspan dx="42" class="sep-text">:</tspan><tspan dx="10" class="val-text">Anycast Edge DDoS Shield • Cloudflare SSL</tspan></text>
+    <text x="0" y="184" class="key-text">Location<tspan dx="42" class="sep-text">:</tspan><tspan dx="10" class="val-text">Dhaka, Bangladesh 🇧🇩</tspan></text>
+
+    <!-- Color Palette Blocks -->
+    <g transform="translate(0, 204)">
+      <rect x="0" y="0" width="22" height="12" rx="3" fill="#15161e"/>
+      <rect x="26" y="0" width="22" height="12" rx="3" fill="#f7768e"/>
+      <rect x="52" y="0" width="22" height="12" rx="3" fill="#9ece6a"/>
+      <rect x="78" y="0" width="22" height="12" rx="3" fill="#e0af68"/>
+      <rect x="104" y="0" width="22" height="12" rx="3" fill="#7aa2f7"/>
+      <rect x="130" y="0" width="22" height="12" rx="3" fill="#bb9af7"/>
+      <rect x="156" y="0" width="22" height="12" rx="3" fill="#7dcfff"/>
+      <rect x="182" y="0" width="22" height="12" rx="3" fill="#00F0FF"/>
+    </g>
+  </g>
+</svg>
