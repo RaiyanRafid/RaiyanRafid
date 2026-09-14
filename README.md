@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">🚀 WELCOME TO MY UNIVERSE 🌌</h1>
+<h1 align="center"><img src="assets/icons/rocket.gif" width="32" height="32" valign="middle" /> WELCOME TO MY UNIVERSE <img src="assets/icons/rocket.gif" width="32" height="32" valign="middle" /></h1>
 
 <p align="center">
   <a href="https://raiyanhossain.com">
@@ -29,7 +29,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
 </p>
 
-## 🌍 About Me
+## <img src="assets/icons/wave.gif" width="30" height="30" valign="middle" /> About Me
 
 <p align="center">
   <picture>
@@ -59,9 +59,11 @@
   <a href="https://facebook.com/raiyanhossainrafid"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
+</p>
 
-## 🛠️ Technical Arsenal & Core Stack
+## <img src="assets/icons/tech.gif" width="30" height="30" valign="middle" /> Technical Arsenal & Core Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-Distributed%20Microservices-00D8FF?style=for-the-badge" alt="Architecture" />
@@ -113,9 +115,11 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
+</p>
 
-## 📊 GitHub Analytics & Activity
+## <img src="assets/icons/analytics.gif" width="30" height="30" valign="middle" /> GitHub Analytics & Activity
 
 <p align="center">
   <a href="https://github.com/RaiyanRafid">
@@ -142,9 +146,11 @@
   <img src="assets/top-langs.svg" alt="Top Languages (Public &amp; Private)" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
+</p>
 
-## 🎵 Recently Played on Spotify 🎧
+## <img src="assets/icons/spotify.gif" width="30" height="30" valign="middle" /> Recently Played on Spotify 🎧
 
 <p align="center">
   <a href="https://open.spotify.com">
@@ -152,9 +158,11 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
+</p>
 
-## 🚀 Featured Projects
+## <img src="assets/icons/projects.gif" width="30" height="30" valign="middle" /> Featured Projects
 
 <p align="center">
   <b>A showcase of live production platforms, cloud infrastructure, enterprise solutions, and e-commerce brands I have built and engineered:</b>
@@ -274,9 +282,11 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
+</p>
 
-## 💡 Mindset & Beyond The Code
+## <img src="assets/icons/mindset.gif" width="30" height="30" valign="middle" /> Mindset & Beyond The Code
 
 <div align="center">
   <blockquote>
@@ -307,9 +317,11 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
+</p>
 
-## 🤝 Let's Connect & Build Together
+## <img src="assets/icons/connect.gif" width="30" height="30" valign="middle" /> Let's Connect & Build Together
 
 <p align="center">
   <b>Have an ambitious project in mind, need high-availability cloud architecture, or looking for custom software solutions?</b><br/>
@@ -365,7 +377,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RaiyanRafid&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
