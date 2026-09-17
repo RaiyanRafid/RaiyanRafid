@@ -11,7 +11,7 @@
     <clipPath id="bar-clip">
       <rect x="25" y="55" width="445" height="8" rx="4" />
     </clipPath>
-    <rect x="25.00" y="55" width="299.07" height="8" fill="#3178c6" /><rect x="324.07" y="55" width="57.62" height="8" fill="#3572A5" /><rect x="381.69" y="55" width="47.79" height="8" fill="#f1e05a" /><rect x="429.48" y="55" width="9.57" height="8" fill="#663399" /><rect x="439.05" y="55" width="8.67" height="8" fill="#4F5D95" /><rect x="447.72" y="55" width="7.67" height="8" fill="#7355dd" /><rect x="455.39" y="55" width="14.61" height="8" fill="#8b949e" />
+    <rect x="25.00" y="55" width="299.04" height="8" fill="#3178c6" /><rect x="324.04" y="55" width="57.63" height="8" fill="#3572A5" /><rect x="381.67" y="55" width="47.80" height="8" fill="#f1e05a" /><rect x="429.47" y="55" width="9.58" height="8" fill="#663399" /><rect x="439.04" y="55" width="8.67" height="8" fill="#4F5D95" /><rect x="447.72" y="55" width="7.67" height="8" fill="#7355dd" /><rect x="455.38" y="55" width="14.62" height="8" fill="#8b949e" />
   </g>
   
         <g transform="translate(25, 85)">
