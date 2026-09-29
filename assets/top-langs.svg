@@ -11,55 +11,55 @@
     <clipPath id="bar-clip">
       <rect x="25" y="55" width="445" height="8" rx="4" />
     </clipPath>
-    <rect x="25.00" y="55" width="258.90" height="8" fill="#3178c6" /><rect x="283.90" y="55" width="92.03" height="8" fill="#3572A5" /><rect x="375.93" y="55" width="46.19" height="8" fill="#f1e05a" /><rect x="422.12" y="55" width="15.87" height="8" fill="#4F5D95" /><rect x="438.00" y="55" width="7.95" height="8" fill="#89e051" /><rect x="445.95" y="55" width="7.43" height="8" fill="#663399" /><rect x="453.38" y="55" width="16.62" height="8" fill="#8b949e" />
+    <rect x="25.00" y="55" width="253.22" height="8" fill="#3178c6" /><rect x="278.22" y="55" width="86.73" height="8" fill="#3572A5" /><rect x="364.95" y="55" width="43.56" height="8" fill="#f1e05a" /><rect x="408.51" y="55" width="15.52" height="8" fill="#4F5D95" /><rect x="424.02" y="55" width="13.20" height="8" fill="#dea584" /><rect x="437.23" y="55" width="7.86" height="8" fill="#89e051" /><rect x="445.08" y="55" width="24.92" height="8" fill="#8b949e" />
   </g>
   
         <g transform="translate(25, 85)">
           <circle cx="5" cy="5" r="4.5" fill="#3178c6" />
           <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
-            TypeScript <tspan fill="#8b949e" font-size="11px">(58.2%)</tspan>
+            TypeScript <tspan fill="#8b949e" font-size="11px">(56.9%)</tspan>
           </text>
         </g>
         
         <g transform="translate(265, 85)">
           <circle cx="5" cy="5" r="4.5" fill="#3572A5" />
           <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
-            Python <tspan fill="#8b949e" font-size="11px">(20.7%)</tspan>
+            Python <tspan fill="#8b949e" font-size="11px">(19.5%)</tspan>
           </text>
         </g>
         
         <g transform="translate(25, 109)">
           <circle cx="5" cy="5" r="4.5" fill="#f1e05a" />
           <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
-            JavaScript <tspan fill="#8b949e" font-size="11px">(10.4%)</tspan>
+            JavaScript <tspan fill="#8b949e" font-size="11px">(9.8%)</tspan>
           </text>
         </g>
         
         <g transform="translate(265, 109)">
           <circle cx="5" cy="5" r="4.5" fill="#4F5D95" />
           <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
-            PHP <tspan fill="#8b949e" font-size="11px">(3.6%)</tspan>
+            PHP <tspan fill="#8b949e" font-size="11px">(3.5%)</tspan>
           </text>
         </g>
         
         <g transform="translate(25, 133)">
+          <circle cx="5" cy="5" r="4.5" fill="#dea584" />
+          <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
+            Rust <tspan fill="#8b949e" font-size="11px">(3.0%)</tspan>
+          </text>
+        </g>
+        
+        <g transform="translate(265, 133)">
           <circle cx="5" cy="5" r="4.5" fill="#89e051" />
           <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
             Shell <tspan fill="#8b949e" font-size="11px">(1.8%)</tspan>
           </text>
         </g>
         
-        <g transform="translate(265, 133)">
-          <circle cx="5" cy="5" r="4.5" fill="#663399" />
-          <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
-            CSS <tspan fill="#8b949e" font-size="11px">(1.7%)</tspan>
-          </text>
-        </g>
-        
         <g transform="translate(25, 157)">
           <circle cx="5" cy="5" r="4.5" fill="#8b949e" />
           <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
-            Other <tspan fill="#8b949e" font-size="11px">(3.7%)</tspan>
+            Other <tspan fill="#8b949e" font-size="11px">(5.6%)</tspan>
           </text>
         </g>
         
