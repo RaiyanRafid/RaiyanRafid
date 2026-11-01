@@ -11,20 +11,20 @@
     <clipPath id="bar-clip">
       <rect x="25" y="55" width="445" height="8" rx="4" />
     </clipPath>
-    <rect x="25.00" y="55" width="240.29" height="8" fill="#3178c6" /><rect x="265.29" y="55" width="50.12" height="8" fill="#4F5D95" /><rect x="315.41" y="55" width="38.20" height="8" fill="#3572A5" /><rect x="353.61" y="55" width="32.68" height="8" fill="#00ADD8" /><rect x="386.29" y="55" width="30.56" height="8" fill="#f1e05a" /><rect x="416.85" y="55" width="14.67" height="8" fill="#dea584" /><rect x="431.53" y="55" width="38.47" height="8" fill="#8b949e" />
+    <rect x="25.00" y="55" width="238.99" height="8" fill="#3178c6" /><rect x="263.99" y="55" width="51.74" height="8" fill="#4F5D95" /><rect x="315.73" y="55" width="38.11" height="8" fill="#3572A5" /><rect x="353.83" y="55" width="32.49" height="8" fill="#00ADD8" /><rect x="386.32" y="55" width="30.64" height="8" fill="#f1e05a" /><rect x="416.96" y="55" width="14.59" height="8" fill="#dea584" /><rect x="431.55" y="55" width="38.45" height="8" fill="#8b949e" />
   </g>
   
         <g transform="translate(25, 85)">
           <circle cx="5" cy="5" r="4.5" fill="#3178c6" />
           <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
-            TypeScript <tspan fill="#8b949e" font-size="11px">(54.0%)</tspan>
+            TypeScript <tspan fill="#8b949e" font-size="11px">(53.7%)</tspan>
           </text>
         </g>
         
         <g transform="translate(265, 85)">
           <circle cx="5" cy="5" r="4.5" fill="#4F5D95" />
           <text x="16" y="9" fill="#c9d1d9" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">
-            PHP <tspan fill="#8b949e" font-size="11px">(11.3%)</tspan>
+            PHP <tspan fill="#8b949e" font-size="11px">(11.6%)</tspan>
           </text>
         </g>
         
